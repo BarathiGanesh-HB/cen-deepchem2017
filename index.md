@@ -28,3 +28,4 @@ Why we conduct workshop frequently?
 **MinION** A device for real-time biological analyses. Nanopore devices executes DNA/RNA sequencing directly and in real time. Availability of low cost DNA sequencers like Oxford Nanopore sequencers and machine learning are going to revolutionize biology and healthcare. There will be heavy demand for people knowledgeable in computational biology.
 
 ![MinION]({{"minion-cutout.png"}})
+![MinION]({{"sequencing-animated_0.gif"}})
