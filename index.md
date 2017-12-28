@@ -12,7 +12,7 @@ The aim of this workshop is to bring together researchers and practitioners work
 
 **Venue: CEN class room** 
 
-[Registration](https://docs.google.com/forms/d/1U3FcmbhT9O_gpK8n3zWjFV5VOHqfJG_e4bWkfE9EpUY/edit)
+Registration is closed
 
 [Accomadation](https://docs.google.com/forms/d/1w4BnP-1_X5egt42WmcTPcUyYLHTrtlBN2FJYGVLPq3c)
 
@@ -22,7 +22,7 @@ The aim of this workshop is to bring together researchers and practitioners work
 
 [Academics at CEN](http://nlp.amrita.edu/cenalumini/cen-alumini.html)
 
-[Check out the earlier workshops conducted by CEN](http://nlp.amrita.edu/workshop/workshops.html)
+[Check out the earlier workshops conducted by CEN](https://barathiganesh-hb.github.io/cen-workshops/)
 
 Why we conduct workshop frequently?
 [Advancement in technologies make many conventional engineering syllabus obselete](https://github.com/BarathiGanesh-HB/cen-deepchem2017/blob/master/RIP.pdf)
