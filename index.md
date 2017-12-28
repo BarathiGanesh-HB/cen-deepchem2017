@@ -54,10 +54,7 @@ Why we conduct workshop frequently?
 | 2.00 PM-5.00 PM | [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/), [Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/) | Practical Session on "Deep learning for data-driven automatic chemical design" |
 | Dec-24,9.00 AM - 5.00 PM | [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna), [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/), [Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/) | Advanced Deep Learning and applications, Quantum chemical descriptors and machine learning applications |
 |-------|--------|---------|
-|Frameworks: TensorFlow, Theano, Keras, Scikit-learn, Lasagne, nolearn,
-Programming languages : Python and Java,
-Packages: Numpy, Scipy, Pandas, Matplotlib, t-SNE, Gensim,
-[deepchem](https://github.com/deepchem/deepchem), [DragoNN](https://kundajelab.github.io/dragonn/), [deepvariant](https://github.com/google/deepvariant)|
+|Frameworks: TensorFlow, Theano, Keras, Scikit-learn, Lasagne, nolearn, Programming languages : Python and Java, Packages: Numpy, Scipy, Pandas, Matplotlib, t-SNE, Gensim, [deepchem](https://github.com/deepchem/deepchem), [DragoNN](https://kundajelab.github.io/dragonn/), [deepvariant](https://github.com/google/deepvariant)|
 |-------|--------|---------|
 
 ### Books published from CEN on Signal processing and Machine learning
