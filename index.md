@@ -12,7 +12,9 @@ The aim of this workshop is to bring together researchers and practitioners work
 
 **Venue: CEN class room** 
 
-[Registration](https://docs.google.com/forms/d/1mR9yLTblLSYWb5zQX3XrQTUutZPkcArGYrMOuBYMe8E/viewform?edit_requested=true)
+[Registration](https://docs.google.com/forms/d/1U3FcmbhT9O_gpK8n3zWjFV5VOHqfJG_e4bWkfE9EpUY/edit)
+
+[Accomadation](https://docs.google.com/forms/d/1w4BnP-1_X5egt42WmcTPcUyYLHTrtlBN2FJYGVLPq3c)
 
 [Recent Talks given by CEN faculties](http://nlp.amrita.edu/facultytalk/talks.html)
 
@@ -30,3 +32,51 @@ Why we conduct workshop frequently?
 ![MinION]({{"minion-cutout.png"}})
 
 ![Sequence]({{"sequencing-animated_0.gif"}})
+
+**Program**
+
+**Venue: CEN Class Room**
+
+**09:00 - 06:00   December 22,23,24, 2017**
+
+| Schedule | Speaker | Title of the Talk |
+|-------|--------|---------|
+| Dec-22,9.00AM - 1.00 PM | [Dr. Soman KP](http://nlp.amrita.edu:8080/somankp/index.html), [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna) | Introduction to Machine learning and Deep learning |
+|-------|--------|---------|
+| 2.00 PM - 3.30 PM | [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna) | Practicals session on "Machine learning and Deep learning in Computational chemistry" |
+|-------|--------|---------|
+| 3.45 PM - 5.00 PM | [Dr. M. Anand Kumar](https://www.amrita.edu/faculty/m-anandkumar), [Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/) | Basics of Word-vector in NLP and its application in Bioinformatics |
+|-------|--------|---------|
+| 3.45 PM - 5.00 PM | [Dr. M. Anand Kumar](https://www.amrita.edu/faculty/m-anandkumar), [Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/) | Practical session on "NLP in representation of biological sequence for applications of deep learning in proteomics and genomics" |
+|-------|--------|---------|
+| Dec-23,9.00 AM - 1.00 PM | [Dr. Prashanth Athri](https://www.amrita.edu/faculty/a-prashanth), [Dr. Sarith P Sathian](https://www.iitm.ac.in/info/fac/sarith), [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna), [Sowmya V](https://www.amrita.edu/faculty/v-sowmya) | Introduction to Computational Chemistry and Bioinformatics,
+Introduction to Computational material science, Bio-medical image processing using Convolutional neural networks  |
+|-------|--------|---------|
+| 2.00 PM-5.00 PM | [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/), [Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/) | Practical Session on "Deep learning for data-driven automatic chemical design" |
+| Dec-24,9.00 AM - 5.00 PM | [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna), [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/), [Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/) | Advanced Deep Learning and applications, Quantum chemical descriptors and machine learning applications |
+|-------|--------|---------|
+|Frameworks: TensorFlow, Theano, Keras, Scikit-learn, Lasagne, nolearn|
+|Programming languages : Python and Java|
+|Packages: Numpy, Scipy, Pandas, Matplotlib, t-SNE, Gensim|
+|[deepchem](https://github.com/deepchem/deepchem), [DragoNN](https://kundajelab.github.io/dragonn/), [deepvariant](https://github.com/google/deepvariant)|
+|-------|--------|---------|
+
+### Books published from CEN on Signal processing and Machine learning
+
+    1. Dr. K.P. Soman, Prabaharan Poornachandran, Sachin Kumar S and Neethu Mohan, "Convex Optimization based Signal Processing for IOT." [Upcoming Book]
+
+    2. Dr. K.P. Soman and Dr. Ramachandran K.I, "Insight into Wavelets From Theory to Practice.", Prentice-Hall India 2004.
+
+    3. Dr. K.P. Soman, Shyam Diwakar, Ajay V., "Insight into Data Mining From Theory to Practice.", Prentice-Hall India, 2006.
+
+    4. Dr. K.P. Soman, Ajay. V, Loganathan R., "Machine Learning with SVM and other Kernel Methods.",Prentice-Hall India, 2009.
+
+    5. Dr. K.P.Soman, and Ramanthan, "Digital signal and Image Processing-The Sparse Way." Elsevier Publications, 2012.
+
+    6. Dr. Deepa G., Dr. Krishnan Namboodiri, "Bioinformatics: Sequential and Structural Analysis.", Narosa Publications.
+
+    7. Dr. K.I Ramachandran., Dr. Deepa, Dr. Krishnan Namboori, "Computational Chemistry and Molecular Modelling." -Springer international.
+
+    8. "Fractals for Everyone." [Online version](http://cen.amritafoss.org/downloads/) Manu Unni, Praveen Krishnan, Dr. K. P. Soman.
+
+![Books published from CEN]({{"books.png"}})
