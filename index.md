@@ -16,7 +16,7 @@ Registration is closed
 
 [Accomadation](https://docs.google.com/forms/d/1w4BnP-1_X5egt42WmcTPcUyYLHTrtlBN2FJYGVLPq3c)
 
-[Recent Talks given by CEN faculties](http://nlp.amrita.edu/facultytalk/talks.html)
+[Recent Talks given by CEN faculties](https://barathiganesh-hb.github.io/cen-talks/)
 
 [CEN Alumnus](http://nlp.amrita.edu/students/index.html)
 
