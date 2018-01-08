@@ -41,7 +41,7 @@ Why we conduct workshop frequently?
 
 | Schedule | Speaker | Title of the Talk |
 |-------|--------|---------|
-| **Dec-22**,9.00AM - 1.00 PM | [Dr. Soman KP](http://nlp.amrita.edu:8080/somankp/index.html), [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna) | Introduction to Machine learning and Deep learning |
+| **Dec-22**,9.00AM - 1.00 PM | [Dr. Soman KP](http://nlp.amrita.edu/somankp/index.html), [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna) | Introduction to Machine learning and Deep learning |
 |-------|--------|---------|
 | 2.00 PM - 3.30 PM | [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna) | Practicals session on "Machine learning and Deep learning in Computational chemistry" |
 |-------|--------|---------|
