@@ -45,14 +45,14 @@ Why we conduct workshop frequently?
 |-------|--------|---------|
 | 2.00 PM - 3.30 PM | [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna) | Practicals session on "Machine learning and Deep learning in Computational chemistry" |
 |-------|--------|---------|
-| 3.45 PM - 5.00 PM | [Dr. M. Anand Kumar](https://www.amrita.edu/faculty/m-anandkumar), [Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/) | Basics of Word-vector in NLP and its application in Bioinformatics |
+| 3.45 PM - 5.00 PM | [Dr. M. Anand Kumar](https://www.amrita.edu/faculty/m-anandkumar), [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/) | Basics of Word-vector in NLP and its application in Bioinformatics |
 |-------|--------|---------|
-| 3.45 PM - 5.00 PM | [Dr. M. Anand Kumar](https://www.amrita.edu/faculty/m-anandkumar), [Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/) | Practical session on "NLP in representation of biological sequence for applications of deep learning in proteomics and genomics" |
+| 3.45 PM - 5.00 PM | [Dr. M. Anand Kumar](https://www.amrita.edu/faculty/m-anandkumar), [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/) | Practical session on "NLP in representation of biological sequence for applications of deep learning in proteomics and genomics" |
 |-------|--------|---------|
 | **Dec-23**,9.00 AM - 1.00 PM | [Dr. Prashanth Athri](https://www.amrita.edu/faculty/a-prashanth), [Dr. Sarith P Sathian](https://www.iitm.ac.in/info/fac/sarith), [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna), [Sowmya V](https://www.amrita.edu/faculty/v-sowmya) | Introduction to Computational Chemistry and Bioinformatics, Introduction to Computational material science, Bio-medical image processing using Convolutional neural networks  |
 |-------|--------|---------|
-| 2.00 PM-5.00 PM | [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/), [Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/) | Practical Session on "Deep learning for data-driven automatic chemical design" |
-| **Dec-24**,9.00 AM - 5.00 PM | [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna), [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/), [Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/) | Advanced Deep Learning and applications, Quantum chemical descriptors and machine learning applications |
+| 2.00 PM-5.00 PM | [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/), [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/) | Practical Session on "Deep learning for data-driven automatic chemical design" |
+| **Dec-24**,9.00 AM - 5.00 PM | [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrishna), [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/), [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/) | Advanced Deep Learning and applications, Quantum chemical descriptors and machine learning applications |
 |-------|--------|---------|
 |**Frameworks:** TensorFlow, Theano, Keras, Scikit-learn, Lasagne, nolearn, **Programming languages:** Python and Java, Packages: Numpy, Scipy, Pandas, Matplotlib, t-SNE, Gensim, [deepchem](https://github.com/deepchem/deepchem), [DragoNN](https://kundajelab.github.io/dragonn/), [deepvariant](https://github.com/google/deepvariant)||
 |-------|--------|---------|
